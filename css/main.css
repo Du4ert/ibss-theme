@@ -1,0 +1,198 @@
+/**********GENERAL STYLES**************/
+h1, h2, h3, h4, h5, h6 {
+  font-family: sans-serif;
+  letter-spacing: 1px; }
+
+body, p {
+  font-weight: normal; }
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: normal; }
+
+/*----------------------------------------------*/
+.top-text {
+  background-color: #7fb3d5;
+  color: #FFF; }
+
+/*-----------------------------------------------*/
+#content a {
+  color: #1f618d  !important;
+  text-decoration: none !important;
+  border-bottom: 1px dotted #7fb3d5 !important; }
+
+#content a:link, a:visited {
+  color: #1f618d  !important; }
+
+#content a:hover {
+  color: #1f618d  !important; }
+
+/*-----------------------------------------------*/
+#main-nav {
+  font-size: 120%; }
+
+#main-nav li {
+  border-left: 1px solid #ccc; }
+
+#main-nav li.active {
+  font-weight: bold; }
+
+#main-nav a {
+  color: #000 !important; }
+
+#main-nav a:hover {
+  color: #000 !important; }
+
+/********SUB NAV*********/
+ul.sub-nav li {
+  padding: 0px 10px 0px 0px; }
+
+/********PAGINATION*********/
+ul.pagination li {
+  padding: 0px 10px 0px 0px; }
+
+ul.pagination li.current {
+  font-size: 110%;
+  font-weight: bold; }
+
+/********** SORT BY ***************************/
+#sort-links span.sorting.desc::after {
+  content: "\f0de";
+  font-family: FontAwesome;
+  font-weight: 900;
+  padding-left: 3px; }
+
+#sort-links span.sorting.asc::after {
+  content: "\f0dd";
+  font-family: FontAwesome;
+  font-weight: 900;
+  padding-left: 3px; }
+
+/********HOMEPAGE FEATURED ITEMS*********/
+/********HEADER STYLES*********/
+/********BROWSE PAGE STYLES*********/
+/******ITEM PAGE STYLES*******/
+/*----------------  item fields ---------------------*/
+.element-set .element-text {
+  margin-left: 1em; }
+
+/******TAGS*******/
+.hTagcloud ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  line-height: 1.8em; }
+
+.tags li {
+  display: inline;
+  color: #888888; }
+
+.vvvvvvvv-popular {
+  font-size: 220%;
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none; }
+
+.vvvvvvvv-popular > span {
+  color: #333; }
+
+.vvvvvvv-popular {
+  font-size: 200%;
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none; }
+
+.vvvvvvv-popular > span {
+  color: #333; }
+
+.vvvvvv-popular {
+  font-size: 180%;
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none; }
+
+.vvvvvv-popular > span {
+  color: #333; }
+
+.vvvvv-popular {
+  font-size: 160%;
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none; }
+
+.vvvvv-popular > span {
+  color: #333; }
+
+.vvvv-popular {
+  font-size: 140%;
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none; }
+
+.vvvv-popular > span {
+  color: #333; }
+
+.vvv-popular {
+  font-size: 130%;
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none; }
+
+.vvv-popular > span {
+  color: #333; }
+
+.vv-popular {
+  font-size: 120%;
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none; }
+
+.vv-popular > span {
+  color: #333; }
+
+.v-popular {
+  font-size: 110%;
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none; }
+
+.v-popular > span {
+  color: #333; }
+
+.popular {
+  font-size: 100%;
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none; }
+
+.popular > span {
+  color: #333; }
+
+.hTagcloud > .popularity > li {
+  margin-bottom: 0px;
+  padding: 3px 5px 3px 5px; }
+
+.hTagcloud > .popularity > li:hover {
+  margin-bottom: 0px;
+  background-color: #ddd; }
+
+.popularity,
+#tagcloud {
+  padding-left: 10px; }
+
+.popular a,
+.-popular a,
+.v-popular a,
+.vv-popular a,
+.vvv-popular a,
+.vvvv-popular a,
+.vvvvv-popular a,
+.vvvvvv-popular a,
+.vvvvvvv-popular a,
+.vvvvvvvv-popular a {
+  color: #888888; }
+
+.custom-class {
+  background: #fff; }
+  .custom-class p {
+    font-size: 16px; }

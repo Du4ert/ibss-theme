@@ -1,0 +1,33 @@
+{
+  "name": "IBSS",
+  "version": "2.5.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.2.1",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "susy": "^2.2.12"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "\"white",
+    "black",
+    "serif\""
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

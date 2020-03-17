@@ -13,14 +13,14 @@ body {
 }
 /*----------------------------------------------*/
 .top-text {
-	background-color: #7fb3d5;
-	color: #FFF;
+    background-color: #7fb3d5;
+    color: #FFF;
 }
 /*-----------------------------------------------*/
 #content a {
     color:  #1f618d  !important;
     text-decoration: none !important;
-	border-bottom: 1px dotted #7fb3d5 !important;
+    border-bottom: 1px dotted #7fb3d5 !important;
 }
 #content a:link, a:visited {
     color:  #1f618d  !important;
@@ -31,10 +31,10 @@ body {
 
 /*-----------------------------------------------*/
 #main-nav {
-	font-size: 120%;
+    font-size: 120%;
 }
 #main-nav li{
-	border-left: 1px solid #ccc;
+    border-left: 1px solid #ccc;
 }
 #main-nav  li.active {font-weight: bold;}
 
@@ -43,17 +43,17 @@ body {
 
 /********SUB NAV*********/
 ul.sub-nav li {
-	padding: 0px 10px 0px 0px;
+    padding: 0px 10px 0px 0px;
 }
 
 /********PAGINATION*********/
 ul.pagination li {
-	padding: 0px 10px 0px 0px;
+    padding: 0px 10px 0px 0px;
 }
 
 ul.pagination li.current {
-	font-size: 110%;
-	font-weight: bold;
+    font-size: 110%;
+    font-weight: bold;
 }
 /********** SORT BY ***************************/
 #sort-links span.sorting.desc::after {
@@ -94,7 +94,7 @@ ul.pagination li.current {
 }
 
 .element-set .element-text{
-	margin-left: 1em;
+    margin-left: 1em;
 }
 
 
@@ -111,7 +111,7 @@ ul.pagination li.current {
 
  .tags li {
     display: inline;
-	color: #888888;
+    color: #888888;
 }
 
 .vvvvvvvv-popular {
@@ -220,12 +220,3 @@ ul.pagination li.current {
 .vvvvvvvv-popular a {
     color: #888888;
 }
-
-
-
-
-/******SEARCH PAGE STYLES*******/
-
-/* CUSTOMIZED SPECIFIC SETTINGS */>
-
-
